@@ -24,7 +24,7 @@ A simple Flask-based web app for uploading, organizing, and sharing academic not
 
 ---
 ## Folder Structure
-
+```
 notes-sharing-portal/
 ├── app.py
 ├── requirements.txt
@@ -35,7 +35,7 @@ notes-sharing-portal/
 │   └── admin_login.html
 ├── uploads/               
 └── notes.db               ← optional (can ignore or include)
-
+```
 
 ---
 ## 🚀 How to Run Locally
@@ -45,5 +45,5 @@ notes-sharing-portal/
 https://github.com/Sandeep-1904/Notes-Sharing-Portal.git
 cd notes-sharing-portal
 
-
+```
 
