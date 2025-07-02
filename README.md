@@ -23,17 +23,7 @@ A simple Flask-based web app for uploading, organizing, and sharing academic not
 - HTML/CSS
 
 ---
-
-## 🚀 How to Run Locally
-
-1. Clone the repository:
-```bash
-https://github.com/Sandeep-1904/Notes-Sharing-Portal.git
-cd notes-sharing-portal
-
----
-
-# Folder Structure
+## Folder Structure
 
 notes-sharing-portal/
 ├── app.py
@@ -45,4 +35,15 @@ notes-sharing-portal/
 │   └── admin_login.html
 ├── uploads/               
 └── notes.db               ← optional (can ignore or include)
+
+
+---
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+```bash
+https://github.com/Sandeep-1904/Notes-Sharing-Portal.git
+cd notes-sharing-portal
+
+
 
